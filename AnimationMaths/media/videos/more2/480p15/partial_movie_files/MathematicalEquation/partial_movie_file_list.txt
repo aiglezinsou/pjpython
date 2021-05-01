@@ -1,0 +1,3 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/aiglezinsou/Documents/Python/AnimationMaths/media/videos/more2/480p15/partial_movie_files/MathematicalEquation/3163782288_1785082666_3393786594.mp4'
+file 'file:/home/aiglezinsou/Documents/Python/AnimationMaths/media/videos/more2/480p15/partial_movie_files/MathematicalEquation/1495979052_1438405273_3229427511.mp4'

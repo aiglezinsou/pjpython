@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/aiglezinsou/Documents/Python/AnimationMaths/project/media/videos/serieux/480p15/partial_movie_files/PointMovingOnShapes/3163782288_806720002_1905582416.mp4'
+file 'file:/home/aiglezinsou/Documents/Python/AnimationMaths/project/media/videos/serieux/480p15/partial_movie_files/PointMovingOnShapes/1495979052_3833474878_1808562489.mp4'
+file 'file:/home/aiglezinsou/Documents/Python/AnimationMaths/project/media/videos/serieux/480p15/partial_movie_files/PointMovingOnShapes/1495979052_1455521430_3404689052.mp4'
+file 'file:/home/aiglezinsou/Documents/Python/AnimationMaths/project/media/videos/serieux/480p15/partial_movie_files/PointMovingOnShapes/1495979052_3399021909_1808562489.mp4'
+file 'file:/home/aiglezinsou/Documents/Python/AnimationMaths/project/media/videos/serieux/480p15/partial_movie_files/PointMovingOnShapes/1495979052_1438405273_2341025635.mp4'

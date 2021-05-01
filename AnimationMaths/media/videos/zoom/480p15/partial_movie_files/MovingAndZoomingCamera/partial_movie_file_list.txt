@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/aiglezinsou/Documents/Python/AnimationMaths/media/videos/zoom/480p15/partial_movie_files/MovingAndZoomingCamera/2259321365_2821449245_4182701337.mp4'
+file 'file:/home/aiglezinsou/Documents/Python/AnimationMaths/media/videos/zoom/480p15/partial_movie_files/MovingAndZoomingCamera/1631704947_3156819279_4182701337.mp4'
+file 'file:/home/aiglezinsou/Documents/Python/AnimationMaths/media/videos/zoom/480p15/partial_movie_files/MovingAndZoomingCamera/2055892750_3041791728_4182701337.mp4'

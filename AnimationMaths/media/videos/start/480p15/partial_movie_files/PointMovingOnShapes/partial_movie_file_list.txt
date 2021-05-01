@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/aiglezinsou/Documents/Python/AnimationMaths/media/videos/start/480p15/partial_movie_files/PointMovingOnShapes/3163782288_625883850_3881855864.mp4'
